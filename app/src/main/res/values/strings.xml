@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Swipeable Videos</string>
-    <string name="full_name">Vidya Shankar</string>
+    <string name="full_name">Jesse Preetam</string>
     <string name="back_to_home">Back to\nHome</string>
     <string name="username_title">Username</string>
-    <string name="username">"@vidya_shankar01"</string>
+    <string name="username">"@jes_senpai"</string>
     <string name="phone_title">Phone</string>
     <string name="phone">+000 00 000 000</string>
     <string name="address_title">Address</string>
     <string name="address">City, Street</string>
     <string name="email_title">Email</string>
-    <string name="email">vidyashankar@gmail.com</string>
+    <string name="email">jessepreetam@gmail.com</string>
     <string name = "Subscribe">Subscribe now</string>
 </resources>
